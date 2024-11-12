@@ -33,3 +33,7 @@ Frontend Developer with strong proficiency in JavaScript, React.js, and React Na
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Akber04/Ai-in-Healthcare" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akber04&repo=Ai-in-Healthcare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Akber04/mood" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akber04&repo=mood&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br />
+
+<div width="100%" align="center"><a href="https://github.com/Akber04/brainwave" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akber04&repo=brainwave&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Akber04/iphone-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akber04&repo=iphone-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
