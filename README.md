@@ -9,7 +9,7 @@ Frontend Developer with strong proficiency in JavaScript, React.js, and React Na
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [My Portfolio](http://www.aliakber.tech)
 * ✉️  You can contact me at [aliakberjhangir@gmail.com](mailto:aliakberjhangir@gmail.com)
-* 🚀  I'm currently working on [AI in Healthcare](http://https://github.com/Akber04/AI-in-Healthcare)
+* 🚀  I'm currently working on [AI in Healthcare](http://github.com/Akber04/AI-in-Healthcare)
 * 🧠  I'm learning AI integrations in Applications to create smart solutions
 * 🤝  I'm open to collaborating on interesting AI and JavaScript projects
 * ⚡  I have a nano-degree in Product Management
